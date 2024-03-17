@@ -198,10 +198,28 @@ maara=0
 
 
 }
-else{
+if (nimi1!=nimi2){
+
+   setTimeout(() => {
+       
+    
+    
+    
+    
+    
+    Piilota()
+    
+    
+    
+    
+    
+    console.log("World");
+      }, 5000);
+
+function Piilota(){
 
 
-
+      
  let xx =document.querySelectorAll('img')
 
 
@@ -234,8 +252,8 @@ kuva.setAttribute('src','images/blank.png')
     cardsShosen.length=0
 
 
+} //eka iffi
 }
-
 }
 
  
