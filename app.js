@@ -252,7 +252,7 @@ kuva.setAttribute('src','images/blank.png')
     cardsShosen.length=0
 
 
-} //eka iffi
+} //Piilota funktio
 }
 }
 
